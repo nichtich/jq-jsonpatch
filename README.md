@@ -11,9 +11,7 @@ This git repository contains an implementation of JSON Pointer ([RFC 6902](https
 * [Install](#install)
 * [Usage](#usage)
 * [API](#api)
-  * [pointer](#pointerjson_pointer)
-  * [pointer_get](#pointer_gettokens)
-  * [pointer_tokens](#pointer_tokens)
+  * ...
 * [Contributing](#contributing)
 * [License](#license)
 

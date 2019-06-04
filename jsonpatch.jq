@@ -12,3 +12,12 @@ module {
   }
 };
 
+include "jsonpointer";
+
+def apply_patch($patch):
+  . # TODO
+;
+
+def apply_test($op):
+  $op.value == pointer($op.path)
+;
